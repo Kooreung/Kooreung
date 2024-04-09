@@ -5,8 +5,11 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+
+  <img src="https://img.shields.io/badge/adobeaftereffects-#9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kooreung&show_icons=true&theme=dark&locale=en" alt="kooreung" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kooreung&theme=dark" alt="kooreung" /></p>
+<div align="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kooreung&show_icons=true&theme=dark&locale=en" alt="kooreung" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kooreung&theme=dark" alt="kooreung" /></p>
+</div>
