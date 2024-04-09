@@ -1,15 +1,37 @@
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-
-  <img src="https://img.shields.io/badge/adobeaftereffects-#9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java Icon" />
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML Icon" />
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon" />
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript Icon" />
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Icon" />
+</p>
+<p align="center"> 
+    <img src="https://img.icons8.com/color/48/000000/notion.png" alt="Notion Icon" />
+    <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack Icon" />
+    <img src="https://img.icons8.com/color/48/000000/google-slides.png" alt="Google Slides Icon" />
+    <img src="https://www.gstatic.com/images/branding/product/1x/sheets_48dp.png" alt="Google Sheets Icon" />
+</p>
+<p align="center"> 
+    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop Icon" />
+    <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Premiere Icon" />
+    <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="After Effects Icon" />
+    <img src="https://img.icons8.com/color/48/000000/adobe-audition.png" alt="Audition Icon" />
+    <img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png" alt="Adobe Lightroom Icon" />
+    <img src="https://img.icons8.com/color/48/000000/cinema-4d.png" alt="Cinema 4D Icon" />
 </p>
 
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kooreung&show_icons=true&theme=dark&locale=en" alt="kooreung" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kooreung&theme=dark" alt="kooreung" /></p>
+    <p><a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kooreung" 
+        alt="Top Languages" /></a>
+    </p>
 </div>
+<hr>
+<div align="center" style="display: flex; justify-content: space-between;align-items: center;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kooreung&show_icons=true&theme=cobalt&locale=en" 
+           alt="kooreung" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kooreung&theme=cobalt" 
+           alt="kooreung" />
+</div>
+<hr>
