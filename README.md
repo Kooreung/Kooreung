@@ -37,9 +37,15 @@
             <img src="https://img.icons8.com/color/48/000000/cinema-4d.png" alt="Cinema 4D Icon" height="35px" />
         </p>
         <p>
-            <p><a href="https://github.com/anuraghazra/github-readme-stats">
+            <p>
+                <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kooreung" 
-                    alt="Top Languages" /></a>
+                    alt="Top Languages" height="230em" /></a>
+                                <a href="https://solved.ac/idealcreator38/">
+                <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=idealcreator38" alt="Solved.ac Profile" height="230em" />
+                </a>
+            </p>
+            <p>
             </p>
         </p>
     </div>
