@@ -40,9 +40,9 @@
         <p>
             <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kooreung&layout=compact&theme=tokyonight" 
-                alt="Top Languages" height="200em" /></a>
+                alt="Top Languages" height="200vh" /></a>
                             <a href="https://solved.ac/idealcreator38/">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=idealcreator38" alt="Solved.ac Profile" height="200em" />
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=idealcreator38" alt="Solved.ac Profile" height="200vh" />
             </a>
         </p>
     </div>
