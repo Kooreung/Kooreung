@@ -39,19 +39,19 @@
 <hr>
         <p>
             <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kooreung" 
-                alt="Top Languages" height="230em" /></a>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kooreung&layout=compact&theme=tokyonight" 
+                alt="Top Languages" height="200em" /></a>
                             <a href="https://solved.ac/idealcreator38/">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=idealcreator38" alt="Solved.ac Profile" height="230em" />
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=idealcreator38" alt="Solved.ac Profile" height="200em" />
             </a>
         </p>
     </div>
 
 <hr>
 <div align="center" style="display: flex; justify-content: space-between;align-items: center;">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kooreung&show_icons=true&theme=cobalt&locale=en" 
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kooreung&show_icons=true&theme=tokyonight&locale=en" 
            alt="kooreung" />
-    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kooreung&theme=cobalt" 
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kooreung&theme=tokyonight" 
            alt="kooreung" />
 </div>
 <hr>
