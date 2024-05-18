@@ -16,8 +16,6 @@
 <h3 align="center">Languages and Tools:</h3>
     <div>
         <p align="center"> 
-            <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Icon" height="60px"/>
-            <img height="60" src="https://img.icons8.com/officel/80/github.png" alt="github"/>
         </p>
         <p align="center">
             <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java Icon" height="60px"/>
@@ -37,6 +35,8 @@
             <div>
                 <img src="https://img.icons8.com/color/48/000000/notion.png" alt="Notion Icon" height="35px" />
                 <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack Icon" height="35px" />
+                <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Icon" height="35px"/>
+                <img height="35" src="https://img.icons8.com/officel/80/github.png" alt="github"/>
                 <img src="https://img.icons8.com/color/48/000000/google-slides.png" alt="Google Slides Icon" height="35px" />
                 <img src="https://www.gstatic.com/images/branding/product/1x/sheets_48dp.png" alt="Google Sheets Icon" height="35px" />
             </div>
