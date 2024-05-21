@@ -1,6 +1,4 @@
-<p></p>
-<div align="center"> 
-<div>
+<div align="center">
     <a href="https://idealcreator38.notion.site/2a350a773629420cbbb5b7d4c91ae4f6?pvs=4" target="_blank">
         <img src="https://img.shields.io/badge/Notion-DD0B78?style=flat-square&logo=Notion&logoColor=white" 
             height="30px"/></a>
@@ -14,52 +12,49 @@
       <img src="https://img.shields.io/badge/kooreung-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
 </div>
 <h3 align="center">Languages and Tools:</h3>
-    <div>
-        <p align="center"> 
-        </p>
-        <p align="center">
-            <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java Icon" height="60px"/>
-            <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML Icon" height="60px"/>
-            <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon" height="60px"/>
-            <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript Icon" height="60px"/>
-            <img height="60" src="https://img.icons8.com/office/80/react.png" alt="react"/>
-        </p>
-        <p align="center">
-            <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Icon" height="60px"/>
-            <img height="60" src="https://img.icons8.com/officel/80/spring-logo.png" alt="spring-logo"/>
-            <img height="60" src="https://img.icons8.com/ios/50/mybatis.png" alt="mybatis"/>
-            <img height="60" src="https://img.icons8.com/color/96/maria-db.png" alt="maria-db"/>
-        </p>
-        <br>
-        <div>
-            <div>
-                <img src="https://img.icons8.com/color/48/000000/notion.png" alt="Notion Icon" height="35px" />
-                <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack Icon" height="35px" />
-                <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Icon" height="35px"/>
-                <img height="35" src="https://img.icons8.com/officel/80/github.png" alt="github"/>
-                <img src="https://img.icons8.com/color/48/000000/google-slides.png" alt="Google Slides Icon" height="35px" />
-                <img src="https://www.gstatic.com/images/branding/product/1x/sheets_48dp.png" alt="Google Sheets Icon" height="35px" />
-            </div>
-            <div> 
-                <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop Icon" height="35px" />
-                <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Premiere Icon" height="35px" />
-                <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="After Effects Icon" height="35px" />
-                <img src="https://img.icons8.com/color/48/000000/adobe-audition.png" alt="Audition Icon" height="35px" />
-                <img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png" alt="Adobe Lightroom Icon" height="35px" />
-                <img src="https://img.icons8.com/color/48/000000/cinema-4d.png" alt="Cinema 4D Icon" height="35px" />
-            </div>
-        </div>
-        <hr>
-        <p>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kooreung&layout=compact&theme=tokyonight" 
-                alt="Top Languages" height="200vh" /></a>
-                            <a href="https://solved.ac/idealcreator38/">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=idealcreator38" alt="Solved.ac Profile" height="200vh" />
-            </a>
-        </p>
+<div align="center" style="display:flex;justify-content:space-evenly;align-items:center;">
+    <div style="border:2px dotted gray">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java Icon" height="60px"/>
+        <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML Icon" height="60px"/>
+        <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon" height="60px"/>
+        <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript Icon" height="60px"/>
+        <img height="60" src="https://img.icons8.com/office/80/react.png" alt="react"/>
     </div>
-
+    <div style="border:2px dotted gray">
+        <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Icon" height="60px"/>
+        <img height="60" src="https://img.icons8.com/officel/80/spring-logo.png" alt="spring-logo"/>
+        <img height="60" src="https://img.icons8.com/ios/50/mybatis.png" alt="mybatis"/>
+        <img height="60" src="https://img.icons8.com/color/96/maria-db.png" alt="maria-db"/>
+    </div>
+</div>
+<br>
+<div align="center">
+    <div>
+        <img src="https://img.icons8.com/color/48/000000/notion.png" alt="Notion Icon" height="35px" />
+        <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack Icon" height="35px" />
+        <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Icon" height="35px"/>
+        <img height="35" src="https://img.icons8.com/officel/80/github.png" alt="github"/>
+        <img src="https://img.icons8.com/color/48/000000/google-slides.png" alt="Google Slides Icon" height="35px" />
+        <img src="https://www.gstatic.com/images/branding/product/1x/sheets_48dp.png" alt="Google Sheets Icon" height="35px" />
+    </div>
+    <div> 
+        <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop Icon" height="35px" />
+        <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Premiere Icon" height="35px" />
+        <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="After Effects Icon" height="35px" />
+        <img src="https://img.icons8.com/color/48/000000/adobe-audition.png" alt="Audition Icon" height="35px" />
+        <img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png" alt="Adobe Lightroom Icon" height="35px" />
+        <img src="https://img.icons8.com/color/48/000000/cinema-4d.png" alt="Cinema 4D Icon" height="35px" />
+    </div>
+</div>
+<hr>
+<div align="center" style="display: flex; justify-content: space-between;align-items: center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kooreung&layout=compact&theme=tokyonight" 
+        alt="Top Languages" height="200vh" /></a>
+                    <a href="https://solved.ac/idealcreator38/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=idealcreator38" alt="Solved.ac Profile" height="200vh" />
+    </a>
+</div>
 <hr>
 <div align="center" style="display: flex; justify-content: space-between;align-items: center;">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kooreung&show_icons=true&theme=tokyonight&locale=en" 
