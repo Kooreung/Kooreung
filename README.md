@@ -62,4 +62,3 @@
     <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kooreung&theme=tokyonight" 
            alt="kooreung" />
 </div>
-<hr>
