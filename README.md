@@ -2,14 +2,14 @@
     <a href="https://www.notion.so/idealcreator38/Hyeonjin-Go-Backend-Frontend-c7fa5ee6fc4e4291a74b9f2e9637a014" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-DD0B78?style=flat-square&logo=Notion&logoColor=white" 
             height="30px"/></a>
-    <a href="https://www.youtube.com/@kr_studio" target="_blank">
-      <img src="https://img.shields.io/badge/KR Studio-FF0000?style=flat-square&logo=Youtube&logoColor=white"
-          height="30px"/></a>
+    <a href="https://www.saramin.co.kr/zf_user/member/resume/view/edit_icon_fl/y/res_idx/29169314/mandb_view/n" target="_blank">
+      <img src="https://img.shields.io/badge/SaramIn-0A66C2?style=flat-square&logo=linkedIn&logoColor=white"height="30px"/></a>
     <a href="mailto:crisishyun@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
             height="30px"/></a>
-    <a href="https://www.saramin.co.kr/zf_user/member/resume/view/edit_icon_fl/y/res_idx/29169314/mandb_view/n" target="_blank">
-      <img src="https://img.shields.io/badge/SaramIn-0A66C2?style=flat-square&logo=linkedIn&logoColor=white"height="30px"/></a>
+    <a href="https://www.youtube.com/@kr_studio" target="_blank">
+      <img src="https://img.shields.io/badge/KR Studio-FF0000?style=flat-square&logo=Youtube&logoColor=white"
+          height="30px"/></a>
 </div>
 <h3 align="center">Languages and Tools:</h3>
 <div align="center" style="display:flex;justify-content:space-evenly;align-items:center;">
