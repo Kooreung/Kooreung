@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/KR Studio-FF0000?style=flat-square&logo=Youtube&logoColor=white"
           height="30px"/></a>
 </div>
-<h3 align="center">Tech Stacks</h3>
+<h2 align="center">Tech Stacks</h2>
 <div align="center" style="display:flex;justify-content:space-evenly;align-items:center;">
     <div style="border:2px dotted gray">
         <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML Icon" height="60px"/>
@@ -30,12 +30,14 @@
     </div>
 </div>
 <br>
+<h4 align="center">Other Tools</h4>
 <div align="center">
     <div>
-        <img src="https://img.icons8.com/color/48/000000/notion.png" alt="Notion Icon" height="35px" />
-        <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack Icon" height="35px" />
+        <img src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="IntelliJ" height="35px" />
         <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git Icon" height="35px"/>
         <img height="35" src="https://img.icons8.com/officel/80/github.png" alt="github"/>
+        <img src="https://img.icons8.com/color/48/000000/notion.png" alt="Notion Icon" height="35px" />
+        <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack Icon" height="35px" />
         <img src="https://img.icons8.com/color/48/000000/google-slides.png" alt="Google Slides Icon" height="35px" />
         <img src="https://www.gstatic.com/images/branding/product/1x/sheets_48dp.png" alt="Google Sheets Icon" height="35px" />
     </div>
