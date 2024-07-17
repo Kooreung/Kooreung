@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/KR Studio-FF0000?style=flat-square&logo=Youtube&logoColor=white"
           height="30px"/></a>
 </div>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tech Stacks</h3>
 <div align="center" style="display:flex;justify-content:space-evenly;align-items:center;">
     <div style="border:2px dotted gray">
         <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML Icon" height="60px"/>
