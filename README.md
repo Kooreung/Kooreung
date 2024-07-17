@@ -1,30 +1,32 @@
 <div align="center">
-    <a href="https://idealcreator38.notion.site/2a350a773629420cbbb5b7d4c91ae4f6?pvs=4" target="_blank">
-        <img src="https://img.shields.io/badge/Notion-DD0B78?style=flat-square&logo=Notion&logoColor=white" 
+    <a href="https://www.notion.so/idealcreator38/Hyeonjin-Go-Backend-Frontend-c7fa5ee6fc4e4291a74b9f2e9637a014" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-DD0B78?style=flat-square&logo=Notion&logoColor=white" 
             height="30px"/></a>
+    <a href="https://www.youtube.com/@kr_studio" target="_blank">
+      <img src="https://img.shields.io/badge/KR Studio-FF0000?style=flat-square&logo=Youtube&logoColor=white"
+          height="30px"/></a>
     <a href="mailto:crisishyun@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
             height="30px"/></a>
-    <a href="https://www.youtube.com/@kr_studio" target="_blank">
-      <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"
-          height="30px"/></a>
-<!--   <a href="https://www.saramin.co.kr/zf_user/member/resume/view/edit_icon_fl/y/mandb_view/n/res_idx/11191263" target="_blank">
-      <img src="https://img.shields.io/badge/kooreung-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
+    <a href="https://www.saramin.co.kr/zf_user/member/resume/view/edit_icon_fl/y/res_idx/29169314/mandb_view/n" target="_blank">
+      <img src="https://img.shields.io/badge/SaramIn-0A66C2?style=flat-square&logo=linkedIn&logoColor=white"height="30px"/></a>
 </div>
 <h3 align="center">Languages and Tools:</h3>
 <div align="center" style="display:flex;justify-content:space-evenly;align-items:center;">
     <div style="border:2px dotted gray">
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java Icon" height="60px"/>
         <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML Icon" height="60px"/>
         <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS Icon" height="60px"/>
         <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript Icon" height="60px"/>
         <img height="60" src="https://img.icons8.com/office/80/react.png" alt="react"/>
+        <img height="60" src="https://img.icons8.com/?size=100&id=r9QJ0VFFrn7T&format=png&color=000000" alt="chakraui"/>
     </div>
     <div style="border:2px dotted gray">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java Icon" height="60px"/>
         <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Icon" height="60px"/>
         <img height="60" src="https://img.icons8.com/officel/80/spring-logo.png" alt="spring-logo"/>
-        <img height="60" src="https://img.icons8.com/ios/50/mybatis.png" alt="mybatis"/>
+        <img height="60" src="https://img.icons8.com/?size=100&id=V5KyPdDwWxdx&format=png&color=000000" alt="mybatis"/>
         <img height="60" src="https://img.icons8.com/color/96/maria-db.png" alt="maria-db"/>
+        <img height="60" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="aws"/>
     </div>
 </div>
 <br>
