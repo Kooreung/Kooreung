@@ -2,6 +2,9 @@
     <a href="https://www.notion.so/idealcreator38/Hyeonjin-Go-Backend-Frontend-c7fa5ee6fc4e4291a74b9f2e9637a014" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-DD0B78?style=flat-square&logo=Notion&logoColor=white" 
             height="30px"/></a>
+    <a href="https://www.notion.so/idealcreator38/2a350a773629420cbbb5b7d4c91ae4f6">
+        <img src="https://img.shields.io/badge/Study Record-E6B143?style=flat-square&logo=Notion&logoColor=white" 
+            height="30px"/></a>
     <a href="https://www.saramin.co.kr/zf_user/member/resume/view/edit_icon_fl/y/res_idx/29169314/mandb_view/n" target="_blank">
       <img src="https://img.shields.io/badge/SaramIn-0A66C2?style=flat-square&logo=linkedIn&logoColor=white"height="30px"/></a>
     <a href="mailto:crisishyun@gmail.com" target="_blank">
