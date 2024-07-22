@@ -5,7 +5,7 @@
     <a href="https://www.notion.so/idealcreator38/2a350a773629420cbbb5b7d4c91ae4f6">
         <img src="https://img.shields.io/badge/Study Record-E6B143?style=flat-square&logo=Notion&logoColor=white" 
             height="30px"/></a>
-    <a href="https://drive.google.com/file/d/1VmzmEdeXhs6y5eKviUO3LWfEvfMhyCHq/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1-bRbMaQ3GJevNQPxMn00KS9juRcvOB_n/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/SaramIn-0A66C2?style=flat-square&logo=linkedIn&logoColor=white"height="30px"/></a>
     <a href="mailto:crisishyun@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
